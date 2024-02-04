@@ -70,7 +70,7 @@ const TextWrapper1 = styled.p`
   font-size: 1.5rem;
   font-weight: 400;
   font-family: 'Inter';
-  margin-top: 16rem; /* Push the button to the bottom */
+  margin-top: 17rem; /* Push the button to the bottom */
   display: flex;
   justify-content: center;
 `;
